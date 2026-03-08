@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WorCowT</string>
+    <string name="tagline">Build Better Habits, One Moo at a Time!</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_routine">Routine</string>
+    <string name="nav_statistics">Statistics</string>
+    <string name="nav_developer">About</string>
+
+    <!-- Landing -->
+    <string name="landing_title">Welcome to WorCowT!</string>
+    <string name="landing_subtitle">Your friendly habit companion</string>
+    <string name="get_started">Get Started</string>
+
+    <!-- Auth -->
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="signing_in">Signing in…</string>
+    <string name="login_error">Login failed. Check your email and password.</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title">Let\'s set up your routine!</string>
+    <string name="onboarding_next">Next</string>
+    <string name="onboarding_finish">Finish</string>
+    <string name="onboarding_skip">Skip</string>
+    <string name="q_name">What\'s your name?</string>
+    <string name="q_age">How old are you?</string>
+    <string name="q_role">Are you a student or working professional?</string>
+    <string name="q_wake_time">What time do you usually wake up?</string>
+    <string name="q_sleep_time">What time do you go to sleep?</string>
+    <string name="q_meals">How many meals do you have per day?</string>
+    <string name="q_workout">Do you prefer working out?</string>
+    <string name="q_medication">Do you take any medication?</string>
+    <string name="q_water">Daily water intake goal (glasses)?</string>
+    <string name="q_productivity">What\'s your productivity preference?</string>
+    <string name="role_student">Student</string>
+    <string name="role_professional">Working Professional</string>
+
+    <!-- Home -->
+    <string name="today_routine">Today\'s Routine</string>
+    <string name="good_morning">Good Morning!</string>
+    <string name="streak_label">Day Streak</string>
+    <string name="xp_label">XP</string>
+    <string name="level_label">Level %d</string>
+
+    <!-- Task Actions -->
+    <string name="action_complete">Complete</string>
+    <string name="action_snooze">Snooze</string>
+    <string name="action_skip">Skip</string>
+
+    <!-- Statistics -->
+    <string name="stats_title">Your Progress</string>
+    <string name="stats_xp_total">Total XP</string>
+    <string name="stats_current_streak">Current Streak</string>
+    <string name="stats_longest_streak">Longest Streak</string>
+    <string name="stats_tasks_completed">Tasks Completed</string>
+    <string name="stats_tasks_skipped">Tasks Skipped</string>
+
+    <!-- Notifications -->
+    <string name="notification_channel_name">WorCowT Reminders</string>
+    <string name="notification_channel_desc">Habit and routine reminders</string>
+
+    <!-- Motivational Messages -->
+    <string name="moo_greeting">Moo! Ready for a great day?</string>
+    <string name="moo_keep_going">Moo! Keep going, you\'re doing great!</string>
+    <string name="moo_streak">Moo! Your streak is growing!</string>
+    <string name="moo_workout">Moo! Time to get moving!</string>
+    <string name="moo_water">Moo! Stay hydrated!</string>
+    <string name="moo_sleep">Moo! Time to rest up!</string>
+    <string name="moo_complete">Moo! You completed all tasks today!</string>
+
+    <!-- Developer -->
+    <string name="developer_title">About Developer</string>
+    <string name="developer_desc">Built with love for BCA Final Year Project</string>
+
+    <!-- Profile -->
+    <string name="profile_title">Profile</string>
+    <string name="sign_out">Sign Out</string>
+
+    <!-- Errors -->
+    <string name="error_no_internet">No internet connection</string>
+    <string name="error_generic">Something went wrong</string>
+    <string name="error_retry">Retry</string>
+</resources>
